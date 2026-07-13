@@ -4,7 +4,7 @@
 ![Tool](https://img.shields.io/badge/Tool-Nmap-green)
 ![Virtualization](https://img.shields.io/badge/VMware-Workstation-orange)
 ![Target](https://img.shields.io/badge/Target-Metasploitable2-red)
-![OS](https://img.shields.io/badge/Linux-Ubuntu-yellow)# Network Reconnaissance using Nmap
+![OS](https://img.shields.io/badge/Linux-Ubuntu-yellow)
 
 ## Overview
 
