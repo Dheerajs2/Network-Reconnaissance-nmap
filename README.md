@@ -1,5 +1,11 @@
 # Network Reconnaissance using Nmap
 
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
+![Tool](https://img.shields.io/badge/Tool-Nmap-green)
+![Virtualization](https://img.shields.io/badge/VMware-Workstation-orange)
+![Target](https://img.shields.io/badge/Target-Metasploitable2-red)
+![OS](https://img.shields.io/badge/Linux-Ubuntu-yellow)# Network Reconnaissance using Nmap
+
 ## Overview
 
 This project demonstrates network reconnaissance performed against a Metasploitable 2 virtual machine in an isolated VMware Workstation environment using Nmap.
@@ -50,6 +56,18 @@ sudo nmap -A <Target-IP>
 ```
 
 ---
+
+# Skills Demonstrated
+
+- Linux Command Line
+- VMware Workstation
+- Nmap
+- Network Reconnaissance
+- Host Discovery
+- Port Scanning
+- Service Enumeration
+- OS Detection
+- Documentation
 
 ## Key Findings
 
